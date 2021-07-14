@@ -7,4 +7,6 @@ public class Sample {
 // changes added in master
 	
 // changes 2 added in master	
+	
+//changes 3 added in master	
 }
