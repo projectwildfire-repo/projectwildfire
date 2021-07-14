@@ -16,7 +16,13 @@ public class Sample {
 	
 // changes 4 added in master
 	
+
 void m1() {
+	
+}
+
+void m2() {	
+
 	
 }
 }
