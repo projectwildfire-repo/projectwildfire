@@ -17,7 +17,8 @@ public class Sample {
 // changes 4 added in master
 	
 
-void m1() {
+String  m1() {
+	return null;
 	
 }
 
